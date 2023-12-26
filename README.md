@@ -21,4 +21,3 @@ Este proyecto se originó en una competición de segmentación de imágenes, enf
 - **Desarrollo Continuo:**
   - Planeamos mejorar la precisión del modelo y explorar técnicas avanzadas en futuras actualizaciones.
 
-Este código refleja nuestro compromiso en la competición de segmentación de imágenes y puede ser un recurso valioso para aquellos interesados en la evaluación precisa de modelos de visión por computadora. ¡Buena suerte en tu exploración! 🌟🖼️
